@@ -19,14 +19,14 @@
         <div id="menu_nav">
         <ul>
        <!--  <li><a href="<?php //echo BASE_URL; ?>">Home</a></li> -->
-       <li><a href="<?php echo BASE_URL; ?>/admin">Admin</a></li>
+       <!-- <li><a href="<?php //echo BASE_URL; ?>/admin">Admin</a></li>
        <ul>
         <li><a href="?controller=pages&action=home">Create Project</li></a>
         <li><a href="?controller=pages&action=createstatus">Add Entry for Bugs</a></li>
-       </ul> 
+       </ul>  -->
         <li><a href="?controller=pages&action=reportdata">Select Date Range</a></li>
         <li><a href="?controller=pages&action=current_report">Report</a></li>
-        <li><a href="?controller=pages&action=delete_project">Delete Projects</a></li>
+        <!-- <li><a href="?controller=pages&action=delete_project">Delete Projects</a></li> -->
         
 
 

@@ -13,7 +13,7 @@ public function index() {
 
   if(isset($_POST) && !empty($_POST['datepickerfrom']) && !empty($_POST['datepickerto']))
   {
-    $datefrom = $_POST['datepickerfrom'];
+    echo $datefrom = $_POST['datepickerfrom'];
     $dateto = $_POST['datepickerto'];
   }
 
